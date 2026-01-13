@@ -1,0 +1,14 @@
+D:\Paradigma\Arvore\Arvore\bin\Debug\net8.0\Arvore.exe
+D:\Paradigma\Arvore\Arvore\bin\Debug\net8.0\Arvore.deps.json
+D:\Paradigma\Arvore\Arvore\bin\Debug\net8.0\Arvore.runtimeconfig.json
+D:\Paradigma\Arvore\Arvore\bin\Debug\net8.0\Arvore.dll
+D:\Paradigma\Arvore\Arvore\bin\Debug\net8.0\Arvore.pdb
+D:\Paradigma\Arvore\Arvore\obj\Debug\net8.0\Arvore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Paradigma\Arvore\Arvore\obj\Debug\net8.0\Arvore.AssemblyInfoInputs.cache
+D:\Paradigma\Arvore\Arvore\obj\Debug\net8.0\Arvore.AssemblyInfo.cs
+D:\Paradigma\Arvore\Arvore\obj\Debug\net8.0\Arvore.csproj.CoreCompileInputs.cache
+D:\Paradigma\Arvore\Arvore\obj\Debug\net8.0\Arvore.dll
+D:\Paradigma\Arvore\Arvore\obj\Debug\net8.0\refint\Arvore.dll
+D:\Paradigma\Arvore\Arvore\obj\Debug\net8.0\Arvore.pdb
+D:\Paradigma\Arvore\Arvore\obj\Debug\net8.0\Arvore.genruntimeconfig.cache
+D:\Paradigma\Arvore\Arvore\obj\Debug\net8.0\ref\Arvore.dll
